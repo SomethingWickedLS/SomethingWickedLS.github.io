@@ -2275,8 +2275,17 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
+			background-image: url("../../images/goatfood.jpg");
+/*			background-size: contain;*/
 			padding-top: 0;
 		}
+
+	.fa-border {
+		background-color: #000000;
+		background-size: 200%; /* Enlarged for smooth animation */
+/*		background-size: contain;*/
+		padding-top: 0;
+	}
 
 /* Header */
 
