@@ -2,13 +2,17 @@
 @import url("fontawesome-all.min.css");
 @font-face {
       font-family: heartless !important;
-      src: url('Heartless.ttf') format("truetype");
+      src: url('Heartless.ttf') format("truetype")
+	  	   url('Heartless.woff2') format('woff2'),
+           url('Heartless.woff') format('woff');
       font-weight: normal;
       font-style: normal;
   }
 @font-face {
       font-family: quinthero !important;
-      src: url('Quinthero.ttf') format("truetype");
+      src: url('Quinthero.ttf') format("truetype")
+		   url('Quinthero.woff2') format('woff2'),
+           url('Quinthero.woff') format('woff');
       font-weight: normal;
       font-style: normal;
   }
