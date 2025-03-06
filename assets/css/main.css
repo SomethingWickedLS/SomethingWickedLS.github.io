@@ -2367,7 +2367,7 @@ input, select, textarea {
 		body.homepage #header:after {
 			content: '';
 			background: #1C0920;
-			background-image: url("../../images/SthWicked.gif");
+			background-image: url("../../images/rabbit.gif");
 			display: block;
 			position: absolute;
 			left: 0;
