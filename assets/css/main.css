@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("fontawesome-all.min.css");
+@font-face {
+      font-family: heartless !important;
+      src: url('Heartless.ttf') format("truetype");
+      font-weight: normal;
+      font-style: normal;
+  }
+@font-face {
+      font-family: quinthero !important;
+      src: url('Quinthero.ttf') format("truetype");
+      font-weight: normal;
+      font-style: normal;
+  }
 
 /*
 	Helios by HTML5 UP
@@ -82,13 +94,13 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+
 	body {
 		background: #f0f4f4;
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-weight: 300;
+		font-family: quinthero;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -105,7 +117,7 @@ input, select, textarea {
 	input, textarea, select {
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Heartless';
 		font-weight: 300;
 	}
 
