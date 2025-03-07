@@ -2547,7 +2547,20 @@ input, select, textarea {
 	#banner {
 		background-image: url("../../images/goatfood.jpg");
 		text-align: center;
-		padding: 4em 0 0em 0;
+		padding: 2em 0 0em 0;
+		margin-bottom: 0;
+	}
+
+	#banner .container {
+		background: rgba(25,25,25,0.76);
+		text-align: center;
+/*		padding: 4em 0 0em 0;*/
+		margin-bottom: 0;
+		width: auto;
+	}
+	#banner .container p {
+		text-align: center;
+/*		padding: 4em 0 0em 0;*/
 		margin-bottom: 0;
 	}
 
