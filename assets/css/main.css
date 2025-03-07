@@ -4,24 +4,24 @@
 @import url("fontawesome-all.min.css");
 @font-face {
       font-family: heartless !important;
-	  src: url('../../../SomethingWickedLS.github.io/assets/css/Heartless.eot');
-      src: url('../../../SomethingWickedLS.github.io/assets/css/Heartless.eot?#iefix') format('embedded-opentype'),
-		   url('../../../SomethingWickedLS.github.io/assets/css/Heartless.ttf') format("truetype")
-	  	   url('../../../SomethingWickedLS.github.io/assets/css/Heartless.woff2') format('woff2'),
-           url('../../../SomethingWickedLS.github.io/assets/css/Heartless.woff') format('woff'),
-		   url('../../../SomethingWickedLS.github.io/assets/css/Heartless.svg#Heartless') format('svg');
+	  src: url('https://SomethingWickedLS.github.io/assets/css/Heartless.eot');
+      src: url('https://SomethingWickedLS.github.io/assets/css/Heartless.eot?#iefix') format('embedded-opentype'),
+		   url('https://SomethingWickedLS.github.io/assets/css/Heartless.ttf') format("truetype")
+	  	   url('https://SomethingWickedLS.github.io/assets/css/Heartless.woff2') format('woff2'),
+           url('https://SomethingWickedLS.github.io/assets/css/Heartless.woff') format('woff'),
+		   url('https://SomethingWickedLS.github.io/assets/css/Heartless.svg#Heartless') format('svg');
       font-weight: normal;
       font-style: normal;
 	  font-display: swap;
   }
 @font-face {
       font-family: quinthero !important;
-	  src: url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.eot');
-      src: url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.eot?#iefix') format('embedded-opentype'),
-		   url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.ttf') format("truetype")
-		   url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.woff2') format('woff2'),
-           url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.woff') format('woff'),
-		   url('../../../SomethingWickedLS.github.io/assets/css/Quinthero.svg#Quinthero') format('svg');
+	  src: url('https://SomethingWickedLS.github.io/assets/css/Quinthero.eot');
+      src: url('https://SomethingWickedLS.github.io/assets/css/Quinthero.eot?#iefix') format('embedded-opentype'),
+		   url('https://SomethingWickedLS.github.io/assets/css/Quinthero.ttf') format("truetype")
+		   url('https://SomethingWickedLS.github.io/assets/css/Quinthero.woff2') format('woff2'),
+           url('https://SomethingWickedLS.github.io/assets/css/Quinthero.woff') format('woff'),
+		   url('https://SomethingWickedLS.github.io/assets/css/Quinthero.svg#Quinthero') format('svg');
       font-weight: normal;
       font-style: normal;
 	  font-display: swap;
