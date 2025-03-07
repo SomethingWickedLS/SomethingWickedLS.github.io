@@ -3,9 +3,10 @@
 @import url("https://online-fonts.com/fonts/quinthero");
 @import url("https://online-fonts.com/fonts/heartless");
 */
+
 @import url("fontawesome-all.min.css");
 @font-face {
-      font-family: 'Heartless' !important;
+      font-family: 'Heartless';
       src: url('https://somethingwickedls.github.io/assets/css/Heartless.woff2') format('woff2'),
            url('https://somethingwickedls.github.io/assets/css/Heartless.woff') format('woff'),
 		   url('https://somethingwickedls.github.io/assets/css/Heartless.ttf') format("truetype");
@@ -14,7 +15,7 @@
 	  font-display: swap;
   }
 @font-face {
-      font-family: 'Quinthero' !important;
+      font-family: 'Quinthero';
       src: url('https://somethingwickedls.github.io/assets/css/Quinthero.woff2') format('woff2'),
            url('https://somethingwickedls.github.io/assets/css/Quinthero.woff') format('woff'),
 		   url('https://somethingwickedls.github.io/assets/css/Heartless.ttf') format("truetype");
