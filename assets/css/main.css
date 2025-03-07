@@ -2273,11 +2273,17 @@ input, select, textarea {
 	.wrapper {
 		background: #191919;
 		margin: 0 0 2em 0;
-		padding: 6em 0 6em 0;
+		padding: 1em 0 1em 0;
 	}
 
 	.wrapper.style2 {
 		background-image: url("../../images/goatfood.jpg");
+/*		background-size: contain;*/
+		padding-bottom: 1em;
+	}
+
+	.wrapper.style2 p {
+/*		background-image: url("../../images/goatfood.jpg");*/
 /*		background-size: contain;*/
 		padding-top: 0;
 	}
@@ -2285,21 +2291,24 @@ input, select, textarea {
 	.wrapper.style1 {
 		background-image: url("../../images/goatfood.jpg");
 /*		background-size: contain;*/
-		padding-top: 0;
+		padding-top: 1em;
 	}
 
 	.wrapper.style1 .collectables {
 		text-align: center;
 		background: rgba(25,25,25,0.76);
 /*		background-size: contain;*/
-		padding-top: 0;
+		padding-top: 1em;
+		padding-bottom: 1em;
+/*		padding 1em 0 1em 0;*/
 	}
 
 	.fa-border {
 		background-color: #000000;
-		background-size: 200%; /* Enlarged for smooth animation */
+/*		background-size: 200%;  Enlarged for smooth animation */
 /*		background-size: contain;*/
-		padding-top: 0;
+		padding-top: 1em;
+		padding-bottom: 0em;
 	}
 
 /* Header */
@@ -2314,7 +2323,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
-		padding: 1em 0 1em 0;
+/*		padding: 1em 0 0 0;*/
 		cursor: default;
 	}
 
@@ -2328,7 +2337,7 @@ input, select, textarea {
 		#header .inner {
 			position: relative;
 			z-index: 1;
-			margin: 0;
+			margin: 4% 3.5% 0 1%;
 			display: inline-block;
 			vertical-align: middle;
 		}
@@ -2376,7 +2385,7 @@ input, select, textarea {
 			}
 
 		#header footer {
-			margin: 1em 0 0 0;
+			margin: 0 0 0 0;
 		}
 
 	body.homepage #header {
@@ -2554,7 +2563,7 @@ input, select, textarea {
 	#banner .container {
 		background: rgba(25,25,25,0.76);
 		text-align: center;
-/*		padding: 4em 0 0em 0;*/
+		padding: 1em 0 1em 0;
 		margin-bottom: 0;
 		width: auto;
 	}
@@ -2562,6 +2571,14 @@ input, select, textarea {
 		text-align: center;
 /*		padding: 4em 0 0em 0;*/
 		margin-bottom: 0;
+	}
+
+	#banner .container h2 {
+		text-align: center;
+/*
+		padding: 0 0 0em 0;
+		margin-top: 1em;
+*/
 	}
 
 
