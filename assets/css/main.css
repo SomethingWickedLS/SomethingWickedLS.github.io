@@ -18,7 +18,7 @@
       font-family: 'Quinthero';
       src: url('/assets/css/Quinthero.woff2') format('woff2'),
            url('/assets/css/Quinthero.woff') format('woff'),
-		   url('/assets/css/Heartless.ttf') format("truetype");
+		   url('/assets/css/Quinthero.ttf') format("truetype");
       font-weight: normal;
       font-style: normal;
 	  font-display: swap;
