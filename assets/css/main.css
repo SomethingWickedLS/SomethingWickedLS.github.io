@@ -3,7 +3,7 @@
 @import url("https://online-fonts.com/fonts/heartless");
 @import url("fontawesome-all.min.css");
 @font-face {
-      font-family: heartless !important;
+      font-family: 'Heartless' !important;
 	  src: url('https://SomethingWickedLS.github.io/assets/css/Heartless.eot');
       src: url('https://SomethingWickedLS.github.io/assets/css/Heartless.eot?#iefix') format('embedded-opentype'),
 		   url('https://SomethingWickedLS.github.io/assets/css/Heartless.ttf') format("truetype")
@@ -15,7 +15,7 @@
 	  font-display: swap;
   }
 @font-face {
-      font-family: quinthero !important;
+      font-family: 'Quinthero' !important;
 	  src: url('https://SomethingWickedLS.github.io/assets/css/Quinthero.eot');
       src: url('https://SomethingWickedLS.github.io/assets/css/Quinthero.eot?#iefix') format('embedded-opentype'),
 		   url('https://SomethingWickedLS.github.io/assets/css/Quinthero.ttf') format("truetype")
@@ -116,7 +116,7 @@ input, select, textarea {
 		color: #FFFFFF;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -133,7 +133,7 @@ input, select, textarea {
 	input, textarea, select {
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 		font-weight: 300;
 	}
 
@@ -141,14 +141,14 @@ input, select, textarea {
 		font-weight: 400;
 		color: #5C495C;
 		line-height: 1.25em;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
 		border-bottom-color: transparent;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 	}
 	wicked {
 		font-size: 5.0em;
@@ -157,7 +157,7 @@ input, select, textarea {
 		color: inherit;
 		text-decoration: none;
 		border-bottom-color: transparent;
-		font-family: heartless;
+		font-family: 'Heartless';
 	}
 
 	.MenuButton {
@@ -168,7 +168,7 @@ input, select, textarea {
 		color: inherit;
 		text-decoration: none;
 		border-bottom-color: transparent;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 	}
 
 	#banner .fill {
@@ -191,7 +191,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		font-weight: 400;
 		line-height: 0em;
-		font-family: heartless;
+		font-family: 'Heartless';
 	}
 
 	h3 {
@@ -2414,7 +2414,7 @@ input, select, textarea {
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
-		font-family: quinthero;
+		font-family: 'Quinthero';
 		
 	}
 
