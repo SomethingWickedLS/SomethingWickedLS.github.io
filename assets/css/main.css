@@ -136,7 +136,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #5C495C;
+		color: #00A20C;
 		line-height: 1.25em;
 		font-family: 'Quinthero';
 	}
@@ -183,7 +183,7 @@ input, select, textarea {
 	}
 
 	h2 w {
-		color: #5C495C;
+		color: #00A20C;
 		text-align: center;
 		font-size: 1.25em;
 		font-weight: 400;
@@ -220,17 +220,17 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #ef8376;
+			color: #710590;
 			border-bottom-color: transparent;
 		}
 		
 		p2:hover {
-			color: #ef8376;
+			color: #710590;
 			border-bottom-color: transparent;
 		}
 
 		p3:hover {
-			color: #ef8376;
+			color: #710590;
 			border-bottom-color: transparent;
 		}
 
@@ -264,12 +264,12 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
-		color: #5C495C;
+		color: #00A20C;
 	}
 	
 	p2 {
 		text-align: justify;
-		color: #5C495C;
+		color: #00A20C;
 		text-decoration: none;
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -279,7 +279,7 @@ input, select, textarea {
 	
 	p3 {
 		text-align: justify;
-		color: #5C495C;
+		color: #00A20C;
 		text-decoration: none;
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -296,7 +296,7 @@ input, select, textarea {
 		display: block;
 		border: 0;
 		top: 4.5em;
-		margin-bottom: 9em;
+		margin-bottom: 8em;
 		height: 6px;
 		border-top: solid 1px rgba(128, 128, 128, 0.2);
 		border-bottom: solid 1px rgba(128, 128, 128, 0.2);
@@ -2043,7 +2043,7 @@ input, select, textarea {
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #710590;
 				}
 
 /* Form */
@@ -2185,7 +2185,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #710590;
 		}
 
 		input[type="button"].alt,
@@ -2513,7 +2513,7 @@ input, select, textarea {
 			}
 
 			.dropotron li:hover {
-				color: #ef8376;
+				color: #710590;
 			}
 
 			.dropotron li a, .dropotron li span {
