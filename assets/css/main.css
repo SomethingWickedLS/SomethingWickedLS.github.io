@@ -7,18 +7,18 @@
 @import url("fontawesome-all.min.css");
 @font-face {
       font-family: 'Heartless';
-      src: url('https://somethingwickedls.github.io/assets/css/Heartless.woff2') format('woff2'),
-           url('https://somethingwickedls.github.io/assets/css/Heartless.woff') format('woff'),
-		   url('https://somethingwickedls.github.io/assets/css/Heartless.ttf') format("truetype");
+      src: url('/assets/css/Heartless.woff2') format('woff2'),
+           url('/assets/css/Heartless.woff') format('woff'),
+		   url('/assets/css/Heartless.ttf') format("truetype");
       font-weight: normal;
       font-style: normal;
 	  font-display: swap;
   }
 @font-face {
       font-family: 'Quinthero';
-      src: url('https://somethingwickedls.github.io/assets/css/Quinthero.woff2') format('woff2'),
-           url('https://somethingwickedls.github.io/assets/css/Quinthero.woff') format('woff'),
-		   url('https://somethingwickedls.github.io/assets/css/Heartless.ttf') format("truetype");
+      src: url('/assets/css/Quinthero.woff2') format('woff2'),
+           url('/assets/css/Quinthero.woff') format('woff'),
+		   url('/assets/css/Heartless.ttf') format("truetype");
       font-weight: normal;
       font-style: normal;
 	  font-display: swap;
